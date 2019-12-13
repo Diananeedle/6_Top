@@ -1,0 +1,12 @@
+.input-group {
+    margin: 40px 0;
+}
+.input-group [data-id='link'] {
+    margin: 8px 4px;
+}
+.input-group [data-id='type'] {
+    margin: 8px 4px;
+}
+.btn {
+    margin: 8px 4px;
+}
